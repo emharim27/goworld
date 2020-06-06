@@ -1,0 +1,262 @@
+/*
+body{
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+}
+*/
+
+.nav-link{
+    color: white !important;
+    font-weight: bold !important;
+}
+
+.navbar-brand{
+    color: white;
+    
+}
+.mynav{
+/*    background-color: rgba(148, 167, 197, 20)*/
+    overflow: auto;
+    position: absolute !important;
+}
+
+ul{
+    margin-left: 200px;
+}
+
+ul li{
+    margin-left: 20px;
+}
+
+ul li:hover{
+    background-color: gray;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.carousel-item{
+    height: 100vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.carousel-caption{
+    bottom: 270px;
+}
+
+.carousel-caption h5{
+    font-size: 65px;
+    font-weight: bold;
+/*    text-transform: uppercase;*/
+    letter-spacing: 2px;
+    margin-top: 25px;
+    color: black !important;
+/*    font-family: 'Dancing Script', cursive;*/
+/*    font-family: 'Niconne', cursive;*/
+    font-family: 'Satisfy', cursive;
+/*font-family: 'Seaweed Script', cursive;*/
+}
+
+.carousel-caption p{
+    width: 75%;
+    margin: auto;
+    font-size: 25px;
+    line-height: 1.9;
+    font-family: 'Satisfy', cursive;
+    color: #403C3C;
+    font-weight: bold;
+}
+
+.dropdown-menu , .dropdown-item{
+    background-color: transparent;
+    color: white;
+    font-weight: bold;
+}
+.deste{
+    color: grey !important;
+    text-align: center;
+}
+.dest{
+    color: grey !important;
+}
+.desti{
+    color: grey !important;
+    margin-top: 80px;
+}
+
+.image{
+    font-family: inherit;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.places:hover{
+    width: 390px !important; 
+    height: 495px !important;
+    cursor: pointer !important;
+}
+
+.story{
+    margin-top: 100px;
+}
+
+.subtitle-39191{
+    color: grey;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+font{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    line-height: 1.7;
+    color: #364d59 !important;
+    font-weight: 300;
+    font-size: 1rem;
+    font-family: "Work Sans", sans-serif;
+}
+
+.team{
+    height: 630px !important;
+    width: 350px !important;
+    border: 1px solid #E5E5DF;
+    background-color: #E5E5DF;
+    margin-top: 50px !important;
+}
+
+.px-4{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    line-height: 1.7;
+    color: #364d59 !important;
+    font-weight: 300;
+    font-size: 1rem;
+    
+    margin-top: 20px;
+    
+    text-align: center;
+}
+
+.caption .mb-4{
+    font-size: 9px;
+    color: pink !important;
+    font-weight: bold !important;
+}
+
+.social{
+    color: dimgray;
+    font-size: 25px;
+    padding-right: 20px;
+}
+
+.social_29128, .mt-5{
+    margin-top: -200px;
+}
+
+.social:hover{
+    color: darkgray;
+}
+
+.footer{
+    height: auto;
+    background-color: #8C8E91;
+    margin-top: 100px;
+}
+.foot-head{
+    margin-top: 50px;
+    color: #48444B;
+}
+
+.aa, .aa1{
+    padding-top: 30px;
+/*    padding-bottom: 100px;*/
+}
+
+.aa1{
+    padding-bottom: 50px;
+}
+
+.quick{
+   text-align: center;
+}
+.listed{
+/*    text-align: center;*/
+    color: dimgray !important;
+    margin-left: 90px;
+    padding-top: 25px;
+    line-height: 30px;
+    text-decoration: none;
+}
+
+.rr{
+    margin-left: 70px;
+}
+#family{
+    margin-top: 200px;
+}
+
+.fam{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    line-height: 1.7;
+    color: #364d59 !important;
+    font-weight: 300;
+    font-size: 1rem;
+    font-family: "Work Sans", sans-serif;
+}
+
+.fam-row{
+  margin-top: 50px;
+}
+
+#couple{
+    margin-top: 150px;
+}
+
+#group{
+    margin-top: 150px;
+}
+
+.solo{
+    font-size: 65px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    padding-top: 150px;
+    text-align: center;
+    color: #8C8E91 !important;
+    font-family: 'Satisfy', cursive;
+}
+.soloo{
+    font-size: 65px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    padding-top: 150px;
+    text-align: center;
+    color: grey !important;
+    font-family: monospace;
+}
+
+.snaps{
+    color: grey !important;
+    text-align: center;
+    margin-top: 150px;
+}
+
+#solo{
+    background-color: #D9DCE0;
+/*        #8C8E91;*/
+}
+
+.pici{
+    margin-top: 50px;
+}
+
+.roww{
+    margin-top: 50px;
+}
